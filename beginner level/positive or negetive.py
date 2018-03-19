@@ -6,6 +6,6 @@ else:
   if((0<b)and(b<=100000)):
     print("positive")
   elif(b<0):
-    print("negetive")
+    print("negative")
   else:
     print("zero")

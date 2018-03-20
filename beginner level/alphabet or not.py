@@ -4,6 +4,6 @@ if((ch>="a" and ch<="z") or (ch>"A" and ch<="Z")):
 else:
   b=int(ch)
   if(b>=0) or(b<=0):
-    print('number')
+    print('no')
   else:
     print("wrong input")

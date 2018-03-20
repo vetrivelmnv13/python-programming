@@ -1,9 +1,5 @@
-a=int(input("enter the input:"))
-b=int(input("enter the input:"))
-c=int(input("enter the input"))
-if(a>b and a>c):
-  print("a is large")
-elif(b>a and b>c):
-  print("b is large")
-else:
-  print("c is large")
+b=int(input("enter the value"))
+c=int(input("enter the value"))
+d=int(input("enter the value"))
+a=max(b,c,d)
+print(a)

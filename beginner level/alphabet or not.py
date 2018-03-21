@@ -5,5 +5,3 @@ else:
   b=int(ch)
   if(b>=0) or(b<=0):
     print('no')
-  else:
-    print("wrong input")

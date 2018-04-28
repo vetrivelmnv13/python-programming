@@ -1,4 +1,4 @@
-a=str(input("enter the word"))
+a=int(input("enter the word"))
 rev=a[::-1]
 if(a==rev):
    print("True")

@@ -1,6 +1,6 @@
-a=int(input("enter the word"))
+a=str(input("INPUT"))
 rev=a[::-1]
 if(a==rev):
-   print("True")
+   print("Yes")
 else:
-  print("False")
+  print("no")
